@@ -1,6 +1,6 @@
 # Analyze Popularity of Japanese Restaurant in Hong Kong Island
 
-The project aims to collect data from OpenRice using web scrapping and analyze the the best stragegy for running a Janpanese restaurant in Hong Kong Island
+The project aims to collect data from OpenRice using web scrapping and analyze the the best strategy for running a Janpanese restaurant in Hong Kong Island
 
 ## Data Collection
 We have collected restaurant id, address, number of bookmarks, price range, likes, dislikes, type of cuisine, and number of reviews.
